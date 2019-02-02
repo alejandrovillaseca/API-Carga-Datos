@@ -1,0 +1,14 @@
+C:\Users\CAVS5692\source\repos\CargaCampañas\CargaCampañas\obj\Debug\netcoreapp2.2\CargaCampañas.csprojAssemblyReference.cache
+C:\Users\CAVS5692\source\repos\CargaCampañas\CargaCampañas\obj\Debug\netcoreapp2.2\CargaCampañas.csproj.CoreCompileInputs.cache
+C:\Users\CAVS5692\source\repos\CargaCampañas\CargaCampañas\obj\Debug\netcoreapp2.2\CargaCampañas.RazorAssemblyInfo.cache
+C:\Users\CAVS5692\source\repos\CargaCampañas\CargaCampañas\obj\Debug\netcoreapp2.2\CargaCampañas.RazorAssemblyInfo.cs
+C:\Users\CAVS5692\source\repos\CargaCampañas\CargaCampañas\obj\Debug\netcoreapp2.2\CargaCampañas.AssemblyInfoInputs.cache
+C:\Users\CAVS5692\source\repos\CargaCampañas\CargaCampañas\obj\Debug\netcoreapp2.2\CargaCampañas.AssemblyInfo.cs
+C:\Users\CAVS5692\source\repos\CargaCampañas\CargaCampañas\bin\Debug\netcoreapp2.2\CargaCampañas.deps.json
+C:\Users\CAVS5692\source\repos\CargaCampañas\CargaCampañas\bin\Debug\netcoreapp2.2\CargaCampañas.runtimeconfig.json
+C:\Users\CAVS5692\source\repos\CargaCampañas\CargaCampañas\bin\Debug\netcoreapp2.2\CargaCampañas.runtimeconfig.dev.json
+C:\Users\CAVS5692\source\repos\CargaCampañas\CargaCampañas\bin\Debug\netcoreapp2.2\CargaCampañas.dll
+C:\Users\CAVS5692\source\repos\CargaCampañas\CargaCampañas\bin\Debug\netcoreapp2.2\CargaCampañas.pdb
+C:\Users\CAVS5692\source\repos\CargaCampañas\CargaCampañas\obj\Debug\netcoreapp2.2\CargaCampañas.RazorTargetAssemblyInfo.cache
+C:\Users\CAVS5692\source\repos\CargaCampañas\CargaCampañas\obj\Debug\netcoreapp2.2\CargaCampañas.dll
+C:\Users\CAVS5692\source\repos\CargaCampañas\CargaCampañas\obj\Debug\netcoreapp2.2\CargaCampañas.pdb
